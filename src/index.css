@@ -1,0 +1,13 @@
+#result{
+  height: 50px;
+  width: 250px;
+  background: cadetblue;
+  z-index: 999;
+  /* display: none; */
+}
+#result h2{
+  padding-left: 20px;
+  padding-top: 10px;
+  color: #fff;
+}
+
